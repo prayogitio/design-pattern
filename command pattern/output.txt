@@ -1,0 +1,7 @@
+
+------ Remote Control -------
+[slot 0] LightOnCommand LightOffCommand
+
+Lignt kitchen room is ON
+Light kitchen room is OFF
+Lignt kitchen room is ON

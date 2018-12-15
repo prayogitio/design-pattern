@@ -1,0 +1,5 @@
+Current conditions: 10.0F degrees and 30.0% humidity and 20.0 pressure
+Another conditions: 10.0F degrees and 30.0% humidity and 20.0 pressure
+Current conditions: 40.0F degrees and 60.0% humidity and 50.0 pressure
+Another conditions: 40.0F degrees and 60.0% humidity and 50.0 pressure
+Current conditions: 80.0F degrees and 90.0% humidity and 70.0 pressure
